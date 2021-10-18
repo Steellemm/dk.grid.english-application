@@ -1,0 +1,1 @@
+rootProject.name = "dk.grid.english-application"
